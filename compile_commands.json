@@ -1,0 +1,117 @@
+[
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm -isystem /opt/homebrew/include  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/phy-proto.dir/main.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/main.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/main.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/third_party",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/imgui-lib.dir/imgui/imgui_draw.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/imgui/imgui_draw.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/third_party",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/imgui-lib.dir/imgui/imgui_widgets.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/imgui/imgui_widgets.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/third_party",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/imgui-lib.dir/imgui/imgui.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/imgui/imgui.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/imgui/imgui.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/third_party",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/imgui-lib.dir/imgui/imgui_demo.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/imgui/imgui_demo.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/third_party/glad",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/glad.dir/src/glad.c.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/src/glad.c",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/src/glad.c"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/core",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/serializer-lib.dir/serializer.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/core/serializer.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/core/serializer.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/render_system",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/render-system-lib.dir/render_defaults.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/render_defaults.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/render_defaults.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/render_system",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/render-system-lib.dir/camera.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/camera.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/camera.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/render_system",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/render-system-lib.dir/renderer.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/renderer.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/renderer.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/render_system",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/render-system-lib.dir/texture.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/texture.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/texture.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/render_system",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/render-system-lib.dir/frame_buffer.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/frame_buffer.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/frame_buffer.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/render_system",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/render-system-lib.dir/default_primitives_renderer.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/default_primitives_renderer.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/default_primitives_renderer.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/render_system/shaders",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/shaders-lib.dir/uniform_buffer.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/shaders/uniform_buffer.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/shaders/uniform_buffer.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/render_system/shaders",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/shaders-lib.dir/general_vs_ubo.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/shaders/general_vs_ubo.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/shaders/general_vs_ubo.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/render_system/shaders",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/shaders-lib.dir/program.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/shaders/program.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/shaders/program.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/render_system/shaders",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/shaders-lib.dir/object_2d.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/shaders/object_2d.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/shaders/object_2d.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/render_system/shaders",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/shaders-lib.dir/line_2d.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/shaders/line_2d.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/render_system/shaders/line_2d.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/physics_system",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/physics-lib.dir/world.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/physics_system/world.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/physics_system/world.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/app",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm -isystem /opt/homebrew/include  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/app-lib.dir/app.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/app/app.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/app/app.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/app",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm -isystem /opt/homebrew/include  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/app-lib.dir/display.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/app/display.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/app/display.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/app",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm -isystem /opt/homebrew/include  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/app-lib.dir/input.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/app/input.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/app/input.cpp"
+},
+{
+  "directory": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/build/src/app",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glad/include -I/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/third_party/glm -isystem /opt/homebrew/include  -Wall -Wextra -fno-exceptions -DASIO_NO_EXCEPTIONS -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/app-lib.dir/loaders.cpp.o -c /Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/app/loaders.cpp",
+  "file": "/Users/ashishbhattarai/Documents/Projects/2DPhysicsProto/src/app/loaders.cpp"
+}
+]
