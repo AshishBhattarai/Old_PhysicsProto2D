@@ -1,4 +1,6 @@
 .clangd/*
 .cmake/*
 build/*
-bin/*
+bin/lib/*
+bin/logs.txt
+bin/phy-proto
